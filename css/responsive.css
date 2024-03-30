@@ -57,7 +57,7 @@
     gap: 12px;
   }
 }
-@media (max-width: 766px) {
+@media (max-width: 850px) {
   .card {
     width: 40vw;
   }
